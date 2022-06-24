@@ -1,2 +1,2 @@
 # autocourse_2022
-Repository for home tasks
+Repository for home tasks 2022
